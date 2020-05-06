@@ -25,6 +25,7 @@ body { margin: 0; };
 
 .page-subtitle {
   text-align: left;
+  color: green;
   font-size: 16px;
   font-weight: 400;
   font-family: 'Signika Negative', sans-serif;
