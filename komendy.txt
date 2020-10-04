@@ -1,6 +1,0 @@
-npm install --local autoprefixer-cli --save-dev
-
-autoprefixer-cli style.css --save-dev
-
-npm install -g html-validate
-html-validate index.html --save-dev
